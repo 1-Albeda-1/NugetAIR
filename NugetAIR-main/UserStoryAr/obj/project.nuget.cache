@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7rn5d4UcnnNH5XIwvXYbbcyFVCyhHaXmwES6BZephvRGwzGlXOHEETA/R8OtALl5/yERnEzbNqy4YezYUbAdlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\NugetAIR-main\\UserStoryAr\\UserStoryAr.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\nugetair\\1.0.0\\nugetair.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

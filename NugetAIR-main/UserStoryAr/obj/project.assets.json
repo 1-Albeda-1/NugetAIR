@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "NugetAir/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/NugetAir.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/NugetAir.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "NugetAir/1.0.0": {
+      "sha512": "Zcn8N5Vnh0StQGU+J2T+r++DPY4ndWn7Ml4HeM6woh/4bYkR5INoRlyUXsMgDhPm7YpayGE1ozoOU4kawHpKAg==",
+      "type": "package",
+      "path": "nugetair/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net6.0-windows7.0/NugetAir.dll",
+        "nugetair.1.0.0.nupkg.sha512",
+        "nugetair.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "NugetAir >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HUAWEi\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\NugetAIR-main\\UserStoryAr\\UserStoryAr.csproj",
+      "projectName": "UserStoryAr",
+      "projectPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\NugetAIR-main\\UserStoryAr\\UserStoryAr.csproj",
+      "packagesPath": "C:\\Users\\HUAWEi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\NugetAIR-main\\UserStoryAr\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HUAWEi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\HUAWEi\\OneDrive\\Рабочий стол\\Nuget\\NugetAir\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "NugetAir": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

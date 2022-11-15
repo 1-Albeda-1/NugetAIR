@@ -1,0 +1,11 @@
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\bin\Debug\net6.0-windows\NugetAir.deps.json
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\bin\Debug\net6.0-windows\NugetAir.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\bin\Debug\net6.0-windows\ref\NugetAir.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\bin\Debug\net6.0-windows\NugetAir.pdb
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.AssemblyInfoInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.AssemblyInfo.cs
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\ref\NugetAir.dll
+C:\Users\HUAWEi\OneDrive\Рабочий стол\NugetAIR-main\NugetAir\obj\Debug\net6.0-windows\NugetAir.pdb

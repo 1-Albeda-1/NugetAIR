@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UserStoryAr/1.0.0": {
+        "dependencies": {
+          "NugetAir": "1.0.0"
+        },
+        "runtime": {
+          "UserStoryAr.dll": {}
+        }
+      },
+      "NugetAir/1.0.0": {
+        "runtime": {
+          "lib/net6.0-windows7.0/NugetAir.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserStoryAr/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NugetAir/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Zcn8N5Vnh0StQGU+J2T+r++DPY4ndWn7Ml4HeM6woh/4bYkR5INoRlyUXsMgDhPm7YpayGE1ozoOU4kawHpKAg==",
+      "path": "nugetair/1.0.0",
+      "hashPath": "nugetair.1.0.0.nupkg.sha512"
+    }
+  }
+}
